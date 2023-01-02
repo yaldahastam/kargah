@@ -20,6 +20,8 @@ over the ocean
 
 <img src="C:\Users\Asus\Pictures\Screenshot(1).png">
 
+<!-- this commend is used to receive the changes your partner has made on your project from the server after he/she cloned it
+plus we use the second command to submit updates on our code with a short to description -->
 
 </body>
 </html>
