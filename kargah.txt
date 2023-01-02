@@ -1,0 +1,26 @@
+<html>
+<body>
+
+<h1>Hello</h1>
+<h2>Hello</h2>
+<h3>Hello</h3>
+<h4>Hello</h4>
+<h5>Hello</h5>
+<h6>Hello</h6>
+
+<p1>Hello World!<br></p1>
+<pre>
+my boonie lies
+over the ocean
+</pre>
+
+<ul>
+<li>Coffe</li>
+</ul>
+
+<img src="C:\Users\Asus\Pictures\Screenshot(1).png">
+
+
+</body>
+</html>
+
